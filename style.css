@@ -4,9 +4,9 @@ background-color:#0c0c0c ;
 margin: 0px;
 margin-bottom: 100px;
 }
-
+<di class="chamada"
 header{
-    border-bottom: solid 2px #000000ff ;
+    border-bottom: solid 2px #a58e63 ;
     margin: 20px;
     font-size: 32px;
     color: black;
@@ -56,6 +56,6 @@ img{
     margin-right: 1%;
     text-align: center;
     padding: 20px;
-    background-color: #ffffffff;
-    color: #ffa600ff;
+    background-color: #0c0c0c;
+    color: #c6a974;
 }
